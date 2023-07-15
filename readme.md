@@ -1,4 +1,4 @@
-Nothing serious just uploaded this project to github to learn git and github.
+Nothing serious just uploaded this project to learn git and github.
 
 
 
