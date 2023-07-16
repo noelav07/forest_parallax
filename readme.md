@@ -19,6 +19,7 @@ git branch
 git branch -d "branch_name"
 git checkout "branch_name"
 git merge "branch_name"
+git push origin --delete "branch_name"   #'to delete remote branch'
 ```
 
 
