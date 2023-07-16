@@ -14,6 +14,11 @@ git reset <filename>
 git config --global user.___ ""  
 git rm  
 git restore  
+git restore --staged "file_name" 
+git branch 
+git branch -d "branch_name"
+git checkout "branch_name"
+git merge "branch_name"
 ```
 
 
