@@ -1,0 +1,26 @@
+ssh-keygen -t ed22519
+git config 
+git config --global user.name "noelav07"
+git config --global user.email "noel.a.v.07@gmail.com"
+git config --list 
+git init
+git add <file_name>
+git add. 
+git add <br>
+git commit -m""  
+git push origin master 
+git pull  
+git status
+git diff  
+git log --oneline  
+git log  
+git reset <filename>
+git config --global user.___ ""  
+git rm  
+git restore  
+git restore --staged "file_name" 
+git branch 
+git branch -d "branch_name"
+git checkout "branch_name"
+git merge "branch_name"
+git push origin --delete "branch_name"   #'to delete remote branch'
